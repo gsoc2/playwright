@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "chokidar": "3.5.3",
-    "enquirer": "2.3.6",
+    "enquirer": "2.4.1",
     "json5": "2.2.3",
     "pirates": "4.0.4",
     "source-map-support": "0.5.21",
